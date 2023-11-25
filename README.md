@@ -25,28 +25,26 @@ Table of contents
 - badges
 How to install and run the project
 
-How to use the project
+How to use the project:
+First of all, the program will ask the user how many tasks do you have. You enter the number and lets imagine that we have 3 tasks. For each one, the program will ask to enter a brief description (go to the gym, make the maths assignment...), the deadline (2023-11-25) and the priority it has (1 being the highest and 3 the lowest). Once you have answered all this, the program will return you the task order taking into account de duedate. In case that the duedate is the same as any other task, the priority level is what is going to set which one to do first.
 
 Include credits:
 
---> Maximo Garrido /  github username: @
+--> Maximo Garrido /  github username: @mgarridoIE
 --> Louis de Perier / github username: @LouisdePerier
 --> Gonzalo Angulo /  github username: @
 --> Eduardo Alfaro
 --> Javier Corredera
 --> Wilrick
 --> Juan Muñoz
+
 Links to any tutorials or webpages that have helped us:
-Xtensio
-Youtube tutorial
-StackOverflow
+- [Xtensio](https://xtensio.com/)
+- Youtube tutorials
+- [StackOverflow](https://stackoverflow.com/)
 any information from programming webpage we have used for coding
 
 Add a license
 - We choose a GPL license
 
 Badges
-
-How to contribute to the project
-
-Include tests
