@@ -18,10 +18,21 @@ To be able to run our program, make sure you have the following things installed
   
   Now that we have the required libraries set up, open the file named app.py and run the program. 
 
+# USAGE 
+Once the installation is completed. The user will be welcomed and they will be recieved with the firts question "Do you want to add a new task?" if the user wants to proceed to the addition of a task they should answe "yes". After theis the program will allow them to add the following characterists of the task:
 
-# How to use the project:
+1-Task description: Here the user will be able to insert the name of the corresponding task (they can also include a short description)
+2-Deadline date: The program will ask for a date, (only month and day)
+3-Deadline time: The user will have to introduce the time of the deadline the task has.(in hours)
+4-Task priority: The user will have to choose the priority the task has (either 1, 2 or 3. 1 being the most important tasks)
 
-First of all, the program will ask the user how many tasks do you have. You enter the number and lets imagine that we have 3 tasks. For each one, the program will ask to enter a brief description (go to the gym, make the maths assignment...), the deadline (2023-11-25) and the priority it has (1 being the highest and 3 the lowest). Once you have answered all this, the program will return you the task order taking into account de duedate. In case that the duedate is the same as any other task, the priority level is what is going to set which one to do first.
+After the user has completed the description of the task, the program will again ask if they want to add a new task, they will have to do the same process for the new task. Once the user has added all the task they want the should answer "no" to the question of "Do you want to add a new task?", and the program will automatically print the corresponding task that have being saved, They will be printed in most efficent way to be carried out.  
+
+# Some extra information
+We have used the following data structures:
+
+  1. Hash Tables - Used to store all task uploaded by the user. 
+  2. Priority queues using Heaps - used to find the most appropriate order for the tasks.  
 
 # Include credits:
 
