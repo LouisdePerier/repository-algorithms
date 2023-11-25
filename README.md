@@ -27,7 +27,8 @@ How to install and run the project
 
 How to use the project
 
-Include credits
+Include credits:
+
 --> Maximo Garrido /  github username: @
 --> Louis de Perier / github username: @LouisdePerier
 --> Gonzalo Angulo /  github username: @
@@ -36,6 +37,10 @@ Include credits
 --> Wilrick
 --> Juan Muñoz
 Links to any tutorials or webpages that have helped us:
+Xtensio
+Youtube tutorial
+StackOverflow
+any information from programming webpage we have used for coding
 
 Add a license
 - We choose a GPL license
