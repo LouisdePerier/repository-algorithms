@@ -10,18 +10,35 @@ Object Oriented Programming:
 
 
 Project's Title
+"TimeWise: Manage your time efficiently!"
 
 Project Description
+Our application is designed for university students and young professionals that want to change their mindset. We want to help people make the most out of their day, as we profoundly beleive that every day should be lived as the last one. Our app enables its users to organize their activities and the time involved, set goals and objectives as well as tracking their improvement. Overall, our main aim is to help students acheive higher productivity and reach their full potential. 
 
 Table of contents
-
+- Project's Title
+- Project description
+- how to intsall project
+- how to use project
+- credits
+- license
+- badges
 How to install and run the project
 
 How to use the project
 
 Include credits
+--> Maximo Garrido /  github username: @
+--> Louis de Perier / github username: @LouisdePerier
+--> Gonzalo Angulo /  github username: @
+--> Eduardo Alfaro
+--> Javier Corredera
+--> Wilrick
+--> Juan Muñoz
+Links to any tutorials or webpages that have helped us:
 
 Add a license
+- We choose a GPL license
 
 Badges
 
