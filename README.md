@@ -30,8 +30,10 @@ To be able to run our program, make sure you have the following things installed
 
 Python programming language
 Libraries - In order to run our program, we make use of the following 2 libraries: heapq_max and re
+
 To download the library type the following command
 pip install heapq_max 
+
 Now that we have the required libraries set up, open the file and run the program.
 
 How to use the project:
