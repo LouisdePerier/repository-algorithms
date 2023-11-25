@@ -7,26 +7,17 @@
 # Project Description
 Our application is designed for university students and young professionals that want to change their mindset. We want to help people make the most out of their day, as we profoundly beleive that every day should be lived as the last one. Our app enables its users to organize their activities and the time involved, set goals and objectives as well as tracking their improvement. Overall, our main aim is to help students acheive higher productivity and reach their full potential. 
 
-# Table of contents
-- Project's Title
-- Project description
-- how to intsall project
-- how to use project
-- credits
-- license
-- badges
   
-# How to install and run the project
-
+# INSTALLATION
 To be able to run our program, make sure you have the following things installed:
 
-Python programming language
-Libraries - In order to run our program, we make use of the following 2 libraries: heapq_max and re
+  - Python programming language - It will work in all versions between 3.6 and 3.8. 
+  - Libraries - In order to run our program, we make use of the following 2 libraries: heapq_max and re  
+        To download the library type the following command   
+    ```pip install heapq_max ``` 
+  
+  Now that we have the required libraries set up, open the file named app.py and run the program. 
 
-To download the library type the following command
-pip install heapq_max 
-
-Now that we have the required libraries set up, open the file and run the program.
 
 # How to use the project:
 
