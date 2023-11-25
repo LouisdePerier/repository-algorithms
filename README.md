@@ -14,7 +14,7 @@ To be able to run our program, make sure you have the following things installed
   - Python programming language - It will work in all versions between 3.6 and 3.8. 
   - Modules - In order to run our program, we make use of the following 2 modules: heapq and datetime, they are built in modules so the user does not need to do any changes.  
   
-  Now that we have the required coponents, open the file named app.py and run the program. 
+  Now that we have the required components, open the file named app.py and run the program. 
 
 # USAGE 
 Once the installation is completed. The user will be welcomed, and they will be received with the first question "Do you want to add a new task?" if the user wants to proceed to the addition of a task they should answer "yes". After this the program will allow them to add the following characteristics of the task:
