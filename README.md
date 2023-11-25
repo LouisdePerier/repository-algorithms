@@ -37,6 +37,7 @@ pip install heapq_max
 Now that we have the required libraries set up, open the file and run the program.
 
 How to use the project:
+
 First of all, the program will ask the user how many tasks do you have. You enter the number and lets imagine that we have 3 tasks. For each one, the program will ask to enter a brief description (go to the gym, make the maths assignment...), the deadline (2023-11-25) and the priority it has (1 being the highest and 3 the lowest). Once you have answered all this, the program will return you the task order taking into account de duedate. In case that the duedate is the same as any other task, the priority level is what is going to set which one to do first.
 
 Include credits:
