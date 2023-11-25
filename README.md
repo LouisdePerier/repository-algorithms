@@ -52,9 +52,9 @@ First of all, the program will ask the user how many tasks do you have. You ente
 
 # Links to any tutorials or webpages that have helped us:
 - [Xtensio](https://xtensio.com/)
-- Youtube tutorials
+- [Youtube tutorials](https://www.youtube.com/)
 - [StackOverflow](https://stackoverflow.com/)
-- any information from programming webpage we have used for coding
+- [Reedit](https://www.reddit.com/)
 
 Add a license
 - We choose a GPL license
