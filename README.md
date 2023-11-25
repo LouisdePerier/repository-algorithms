@@ -25,6 +25,7 @@ Table of contents
 - badges
   
 How to install and run the project
+
 To be able to run our program, make sure you have the following things installed:
 
 Python programming language
