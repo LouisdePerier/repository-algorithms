@@ -12,7 +12,10 @@ Our application is designed for university students and young professionals that
 To be able to run our program, make sure you have the following things installed:
 
   - Python programming language - It will work in all versions between 3.6 and 3.8. 
-  - Modules - In order to run our program, we make use of the following 2 modules: heapq and datetime, they are built in modules so the user does not need to do any changes.  
+  - Modules - In order to run our program, we make use of the following 2 modules: heapq and datetime, they are built in modules so the user does not need to do any changes.
+  - Donwload wxpython package:
+To download the library type the following command   
+    ```pip install heapq_max ``` 
   
   Now that we have the required components, open the file named app.py and run the program. 
 
