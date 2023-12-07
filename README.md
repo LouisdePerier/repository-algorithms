@@ -26,7 +26,10 @@ To download the library type the following command in the terminal of the enviro
 Now that we have the required components, Follow the next steps:
 
  1. Open the file named "app.py" stored in github and download the file and open it in your enviroment.
- 2. Next run the program. It will redirect you to the user interface. Open it fully. It should look like this:
+ 2. Next run the program. It will redirect you to the user interface. Open it fully.
+ 3. Now that the interface is diplayed you can start using the taskscheduler.
+ 4. You can introduce the Task Description, Task Deadline Date , Task Deadline time adn its priority. Press the button "Add Task" to save the task, a message will be shown in the console of the interface confirming that the operation has been done properly. Once shown the message you can strat saving another task.
+ 5. Once you have saved the task you want. You can either use the "Get Next Task" to see in the console the next task you want to see or use the "List All Task" to print the tasks in calendar format in the console. 
  
 
 # Some extra information
