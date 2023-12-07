@@ -25,19 +25,9 @@ To download the library type the following command in the terminal of the enviro
 
 Now that we have the required components, Follow the next steps:
 
- 1. open the file named "app.py" stored in github and  
-
-Once the installation is completed. The user will be welcomed, and they will be received with the first question "Do you want to add a new task?" if the user wants to proceed to the addition of a task they should answer "yes". After this the program will allow them to add the following characteristics of the task:
-
-1-Task description: Here the user will be able to insert the name of the corresponding task (they can also include a short description)
-
-2-Deadline date: The program will ask for a date, (only month and day)
-
-3-Deadline time: The user will have to introduce the time of the deadline the task has.(in hours)
-
-4-Task priority: The user will have to choose the priority the task has (either 1, 2 or 3. 1 being the most important tasks)
-
-After the user has completed the description of the task, the program will again ask if they want to add a new task, they will have to do the same process for the new task. Once the user has added all the task, they want the should answer "no" to the question of "Do you want to add a new task?", and the program will automatically print the corresponding task that have being saved, They will be printed in most efficient way to be carried out.  
+ 1. Open the file named "app.py" stored in github and download the file and open it in your enviroment.
+ 2. Next run the program. It will redirect you to the user interface. Open it fully. It should look like this:
+ 
 
 # Some extra information
 We have used the following data structures:
