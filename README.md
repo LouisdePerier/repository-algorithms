@@ -23,7 +23,9 @@ To download the library type the following command in the terminal of the enviro
   
 # INSTALLATION y USAGE
 
-  Now that we have the required components, open the file named app.py and run the program. 
+Now that we have the required components, Follow the next steps:
+
+ 1. open the file named "app.py" stored in github and  
 
 Once the installation is completed. The user will be welcomed, and they will be received with the first question "Do you want to add a new task?" if the user wants to proceed to the addition of a task they should answer "yes". After this the program will allow them to add the following characteristics of the task:
 
