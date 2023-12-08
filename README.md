@@ -5,12 +5,12 @@
 "TimeWise: Manage your time efficiently!"
 
 # Table of contents
-1. [Project Description](#Project Description)
-2. [Prerequisites and Environment](#Prerequisites and Environment)
-3. [Installation and Usage](#Installation y Usage)
-4. [Extra information](#Extra information)
-5. [Further improvements](#Further improvements)
-6. [Include credits](#Include credits)
+1. [Project Description](#Project-Description)
+2. [Prerequisites and Environment](#Prerequisites-and-Environment)
+3. [Installation and Usage](#Installation-and-Usage)
+4. [Extra information](#Extra-information)
+5. [Further improvements](#Further-improvements)
+6. [Credits](#Credits)
 
 # Project Description
 Our application is designed for university students and young professionals that want to change their mindset. We want to help people make the most out of their day, as we profoundly beleive that every day should be lived as the last one. Our app enables its users to organize their activities and the time involved, set goals and objectives as well as tracking their improvement. Overall, our main aim is to help students acheive higher productivity and reach their full potential. We used PyCharm and Google collab as we have seen these tools in class and we wanted to implement what we have learnt in our project. Some challenges we faced were the complexity of some algorithms we wanted to use but couldn't due to some lack of experience. Some features we would like to add in a near future are the possibility to share your goals with other users and implement some common objectives in order to bring together students and foster a sense of community. If various users can see each others improvements and weaknesses, they can support each other and motivate each other to manage their time better.  
@@ -59,7 +59,7 @@ To imporve our programme we would like to develope several features that will im
     outside the app. 
   
 
-# Include credits:
+# Credits:
 
 --> Maximo Garrido
 
