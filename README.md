@@ -5,10 +5,12 @@
 "TimeWise: Manage your time efficiently!"
 
 # Table of contents
-1. [Introduction](#introduction)
-2. [Installation & Usage](#Installation-&-Usage)
-3. [Further Improvements](#Further-Improvements)
-4. [Credits](#credits)
+1. [Project Description](#Project Description)
+2. [Prerequisites and Environment](#Prerequisites and Environment)
+3. [INSTALLATION y USAGE](#INSTALLATION y USAGE)
+4. [Extra information](#Extra information)
+5. [Further improvements](#Further improvements)
+6. [Include credits](#Include credits)
 
 # Project Description
 Our application is designed for university students and young professionals that want to change their mindset. We want to help people make the most out of their day, as we profoundly beleive that every day should be lived as the last one. Our app enables its users to organize their activities and the time involved, set goals and objectives as well as tracking their improvement. Overall, our main aim is to help students acheive higher productivity and reach their full potential. We used PyCharm and Google collab as we have seen these tools in class and we wanted to implement what we have learnt in our project. Some challenges we faced were the complexity of some algorithms we wanted to use but couldn't due to some lack of experience. Some features we would like to add in a near future are the possibility to share your goals with other users and implement some common objectives in order to bring together students and foster a sense of community. If various users can see each others improvements and weaknesses, they can support each other and motivate each other to manage their time better.  
@@ -32,7 +34,7 @@ Now that we have the required components, Follow the next steps:
  5. Once you have saved the task you want. You can either use the "Get Next Task" to see in the console the next task you want to see or use the "List All Task" to print the tasks in calendar format in the console. 
  
 
-# Some extra information
+# Extra information
 We have used the following data structures:
 
   1. Hash Tables - Used to store all task uploaded by the user. 
@@ -55,23 +57,22 @@ To imporve our programme we would like to develope several features that will im
       
   6.Improve the display of the task, making it in calendar format. As well as intrpducing a feature that will allow you save the tasks in your own calendar 
     outside the app. 
-
-
-
-
-
-
-
-      
+  
 
 # Include credits:
 
---> Maximo Garrido /  github username: @mgarridoIE
---> Louis de Perier / github username: @LouisdePerier
---> Gonzalo Angulo /  github username: @
+--> Maximo Garrido
+
+--> Louis de Perier 
+
+--> Gonzalo Angulo 
+
 --> Eduardo Alfaro
+
 --> Javier Corredera
+
 --> Wilrick
+
 --> Juan Muñoz
 
 # Links to any tutorials or webpages that have helped us:
