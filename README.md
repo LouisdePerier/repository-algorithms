@@ -41,12 +41,18 @@ We have used the following data structures:
 # Further improvements
 
 To imporve our programme we would like to develope several features that will imporve the user experience such as:
+
       1.Introduce a task deletion functionality(Allows users to mark tasks as done or to delete any task they want)
+      
       2.Task priority adjustment(enables user to change the priority of tasks)
+      
       3.Implement another attribute to the task's class which is "category"(this will allow to filter task depending on its category in case the user wants to only 
         display certain relaited tasks)
+        
       4.Implement another attribute to the task's class which is "duration"(this will help to better fit in task and structure the calendar better.)
+      
       4.Improve GUI by making it more use friendly, including a log in and personalice better the use of the app.
+      
       5.Improve the display of the task, making it in calendar format. As well as intrpducing a feature that will allow you save the tasks in your own calendar 
         outside the app. 
 
