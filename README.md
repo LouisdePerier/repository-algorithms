@@ -7,7 +7,7 @@
 # Table of contents
 1. [Project Description](#Project Description)
 2. [Prerequisites and Environment](#Prerequisites and Environment)
-3. [INSTALLATION y USAGE](#INSTALLATION y USAGE)
+3. [Installation and Usage](#Installation y Usage)
 4. [Extra information](#Extra information)
 5. [Further improvements](#Further improvements)
 6. [Include credits](#Include credits)
@@ -23,7 +23,7 @@ For the proper functioning of the code the first thing you need to do is install
 To download the library type the following command in the terminal of the enviroment:  
     ```pip install wxPython ``` 
   
-# INSTALLATION y USAGE
+# Installation and Usage
 
 Now that we have the required components, Follow the next steps:
 
@@ -31,7 +31,7 @@ Now that we have the required components, Follow the next steps:
  2. Next run the program. It will redirect you to the user interface. Open it fully.
  3. Now that the interface is diplayed you can start using the taskscheduler.
  4. You can introduce the Task Description, Task Deadline Date , Task Deadline time adn its priority. Press the button "Add Task" to save the task, a message will be shown in the console of the interface confirming that the operation has been done properly. Once shown the message you can strat saving another task.
- 5. Once you have saved the task you want. You can either use the "Get Next Task" to see in the console the next task you want to see or use the "List All Task" to print the tasks in calendar format in the console. 
+ 5. Once you have saved the tasks you want. You can either use the "Get Next Task" to see in the console the next task you heve to do or use the "List All Task" to print the tasks in calendar format in the console. 
  
 
 # Extra information
